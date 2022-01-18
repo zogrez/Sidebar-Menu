@@ -6,7 +6,7 @@ const body = document.querySelector("body"),
     modeText = body.querySelector(".mode-text");
 
     toogle.addEventListener("click", () => {
-        sidebar.classList.toggle("close");
+        sidebar.classList.toggle("close"); 
     });
 
     searchBtn.addEventListener("click", () => {

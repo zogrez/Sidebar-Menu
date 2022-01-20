@@ -1,8 +1,8 @@
 # Sidebar-Menu
 Responsive sidebar menu using HTML, CSS and JS with dark mode and light mode.
 
-![lightmode sidebar menu](lightmode-sidebar.png)
+![lightmode sidebar menu](images/lightmode-sidebar.png)
 
-![darkmode sidebar menu](darkmode-sidebar.png)
+![darkmode sidebar menu](images/darkmode-sidebar.png)
 
-![minimize sidebar menu](darkmode-minimize-sidebar.png)
+![minimize sidebar menu](images/darkmode-minimize-sidebar.png)
